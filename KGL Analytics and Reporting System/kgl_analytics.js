@@ -150,4 +150,3 @@ for(const [key,value] of kglProiceList){
 
 }
 
-let redu = kglProiceList.reduce((kglProiceList.value))
